@@ -44,6 +44,9 @@
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.fontSize": 12,
+  "debug.console.fontSize": 12,
 }
 ```

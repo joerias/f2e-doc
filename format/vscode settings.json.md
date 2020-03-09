@@ -1,7 +1,7 @@
 ## 前言
 
-可通用的 vsCode 的代码格式化工具，新项目 eslint 严格模式（目前医全通后台）必须配置该项，不然会产生大量的手动修改的 eslint 细节修改  
-"editor.fontFamily"和"editor.fontSize" 项不是必须的，请提前保留自己默认的项配置
+可通用的 vsCode 的代码格式化工具，新版 vscode 已经移除 eslint 严格模式到项目内配置了，该串代码已经同步更新，可直接使用  
+"editor.fontFamily"和"editor.fontSize" 项不是必须的，请提前保留自己所需要的配置
 
 ```javascript
 {
@@ -35,9 +35,6 @@
       "proseWrap": "preserve" // 代码超出是否要换行 preserve保留
     }
   },
-  "prettier.singleQuote": true,
-  "prettier.semi": false,
-  "markdown.preview.fontFamily": "Sarasa Mono SC",
   "editor.fontSize": 15,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

@@ -18,4 +18,4 @@
 
 ## ESLINT 项目配置(自动)
 
-[eslint Settings](./eslint/eslintrc.js.md)
+[eslint Settings](./eslint/.eslintrc.js.md)

@@ -10,6 +10,8 @@
 
 - [JS 规范](<./standard particular/js.md>)
 
+- [CSS 规范](<./standard particular/css.md>)
+
 ## IDE 工具配置(手动)
 
 [vsCode Settings](<./format/vscode settings.json.md>)

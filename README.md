@@ -1,10 +1,10 @@
-# fe_team
+# 前端文档记录
 
 ---
 
 ## 前端开发规范
 
-[规范原则](<./standard particular/base.md>)
+[基础规范原则](<./standard particular/base.md>)
 
 分类详细规范和参考指导
 
